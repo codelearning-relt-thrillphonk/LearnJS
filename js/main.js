@@ -1,4 +1,4 @@
-// //alert ('Hello, World!');
+alert ('Hello, World!');
 
 // var name = 'Hello';
 // //alert(name);
